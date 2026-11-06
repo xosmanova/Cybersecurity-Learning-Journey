@@ -1,20 +1,50 @@
-# Cybersecurity Learning Journey
+# Cybersecurity Learning Journey 🛡️
 
-This repository is where I keep my notes while learning cybersecurity. I am especially interested in defensive security, Blue Team work, and Security Operations Center (SOC) fundamentals.
+Welcome to my Cybersecurity Learning Journey!
 
-I use these notes to review concepts, keep useful Linux and networking information in one place, and track topics I want to understand better. The explanations are written at a beginner level and will be updated as my knowledge improves.
+This repository documents my ongoing learning process in Cybersecurity, with a particular focus on Blue Team operations and SOC fundamentals.
 
-## Topics
+My goal is to build a strong technical foundation through theoretical learning, practical exercises, and documentation.
 
-- **Linux:** terminal basics, file permissions, users, groups, processes, and services.
-- **Networking:** OSI model, TCP/IP, DNS, and common protocols.
-- **Cybersecurity:** security principles, common threats, and basic defensive measures.
-- **SOC:** the role of a SOC, logs, alerts, and incident response.
+## 📚 Learning Areas
 
-## Learning approach
+### 1. Linux
+- Basic Linux Commands
+- File Permissions
+- Users and Groups
+- Processes and Services
 
-I try to understand what each command or concept does rather than memorising it. Where I add practical notes, I will describe the environment and what I actually observed.
+### 2. Networking
+- OSI Model
+- TCP/IP
+- DNS
+- Common Network Protocols
 
-## Current focus
+### 3. Cybersecurity Fundamentals
+- CIA Triad
+- Common Cyber Threats
+- Authentication and Authorization
+- Security Fundamentals
 
-My current focus is building a foundation in Linux, networking, and defensive security before moving on to more advanced SOC tools and practical labs.
+### 4. SOC Operations
+- Introduction to SOC
+- Log Analysis
+- Security Monitoring
+- Incident Response
+
+## 🛠️ Tools and Technologies
+
+- Ubuntu
+- Kali Linux
+- Linux Terminal
+- Git & GitHub
+
+## 🎯 Career Goal
+
+My goal is to develop my knowledge and practical skills in Defensive Cybersecurity, particularly Blue Team operations and Security Operations Center (SOC) analysis.
+
+## 📌 About This Repository
+
+This repository is a personal learning project. It will be continuously updated as I learn new concepts, complete practical exercises, and improve my cybersecurity knowledge.
+
+**Learning by doing. Documenting every step.**
